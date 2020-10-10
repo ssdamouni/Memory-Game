@@ -1,0 +1,16 @@
+#game div {
+  border: 5px groove brown;
+  border-radius: 3%;
+  width: 15%;
+  height: 200px;
+  margin: 10px;
+  display: inline-block;
+}
+div{
+  color: white;
+}
+body{
+  background-color: cornsilk;
+  font-family: Arial;
+  text-align: center;
+}
